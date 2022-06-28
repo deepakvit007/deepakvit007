@@ -33,3 +33,7 @@
 
 [![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
 <br />
+
+<!-- Twitter -->
+<!--
+<p align="left"> <a href="https://twitter.com/aman_s1708" target="blank"><img src="https://img.shields.io/twitter/follow/deepakraj810?logo=twitter&style=for-the-badge" alt="aman_s1708" /></a> </p> -->
