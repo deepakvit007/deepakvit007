@@ -31,7 +31,7 @@
 
 
 
-[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
+[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
 <br />
 
 <h1 align="center">CONNECT WITH ME</h1>
