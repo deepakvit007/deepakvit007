@@ -16,7 +16,6 @@
 <h4 align="center"> 😄 Pronouns: He/Him.</h4>
 <hr/>
 
-<h2 align="center"> Badges :</h2>
 [![@deepakvit007's Holopin board](https://holopin.me/deepakvit007)](https://holopin.io/@deepakvit007)
   
 <hr/>
