@@ -14,9 +14,10 @@
 <h4 align="center"> 💬 Ask me about HTML, C++, Java , React.JS,JavaScript,CSS,Python</h4>
 <h4 align="center"> 📫 Reach me at: <b>deepak007vit@gmail.com</b></h4>
 <h4 align="center"> 😄 Pronouns: He/Him.</h4>
+<hr/>
 
-
-
+<h2 align="center"> Badges :</h2>
+[![@deepakvit007's Holopin board](https://holopin.me/deepakvit007)](https://holopin.io/@deepakvit007)
   
 <hr/>
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
