@@ -37,7 +37,7 @@
 
 <a href="https://github.com/deepakvit007/Search-Github-User-Web-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Search-Github-User-Web-App&theme=synthwave" />
-</a>
+</a><br>
 <a href="https://github.com/deepakvit007/Multiple-Disease-Prediction-ML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Multiple-Disease-Prediction-ML&theme=synthwave" />
 </a>
