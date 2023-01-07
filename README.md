@@ -31,7 +31,7 @@
 
 
 
-[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
+[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
 <br />
 #### Top Repositories
 <p align="center>
