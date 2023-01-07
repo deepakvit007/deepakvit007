@@ -33,7 +33,7 @@
 
 [![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
 <br />
-#### Top Repositories
+### Top Repositories
 <p align="center>
 <a href="https://github.com/deepakvit007/Search-Github-User-Web-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Search-Github-User-Web-App&theme=synthwave&hide_border=true" />
