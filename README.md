@@ -35,12 +35,12 @@
 <br />
 ### Top Repositories
 <p align="center>
-<a href="https://github.com/deepakvit007/Search-Github-User-Web-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Search-Github-User-Web-App&theme=synthwave&hide_border=true" />
-</a>
 
 <a href="https://github.com/deepakvit007/Multiple-Disease-Prediction-ML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Multiple-Disease-Prediction-ML&theme=synthwave&hide_border=true" />
+</a>
+<a href="https://github.com/deepakvit007/Search-Github-User-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Search-Github-User-Web-App&theme=synthwave&hide_border=true" />
 </a>
  </p>
 <br />
