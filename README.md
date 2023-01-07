@@ -22,16 +22,27 @@
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=deepakvit007&&show_icons=true&&theme=algolia&&hide_border=true" alt="Deepak Kumar GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=deepakvit007&&show_icons=true&&theme=synthwave&&hide_border=true" alt="Deepak Kumar GitHub Stats">
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvit007&&layout=compact&&show_icons=true&&theme=algolia&&hide_border=true" alt=" Deepak Kumar GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvit007&&layout=compact&&show_icons=true&&theme=synthwave&&hide_border=true" alt=" Deepak Kumar GitHub Stats">
   <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvit007&&show_icons=true&&theme=algolia&&hide_border=true" alt="Deepak Kumar* GitHub Stats"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvit007&&show_icons=true&&theme=synthwave&&hide_border=true" alt="Deepak Kumar* GitHub Stats"> 
   </p>
 
 
 
 [![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvit007&&theme=react-dark)](https://github.com/deepakvit007/github-readme-activity-graph)
+<br />
+#### Top Repositories
+
+<a href="https://github.com/deepakvit007/Search-Github-User-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Search-Github-User-Web-App&theme=synthwave" />
+</a>
+<a href="https://github.com/deepakvit007/Multiple-Disease-Prediction-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakvit007&repo=Multiple-Disease-Prediction-ML&theme=synthwave" />
+</a>
+
+<br />
 <br />
 
 <h1 align="center">CONNECT WITH ME</h1>
