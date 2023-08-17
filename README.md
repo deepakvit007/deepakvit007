@@ -35,7 +35,7 @@
 
 
 <br />
-## Top Repositories
+<h1>Top Repositories</h1>
 <p align="center>
 
 <a href="https://github.com/deepakvit007/Multiple-Disease-Prediction-ML">
