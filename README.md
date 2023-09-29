@@ -10,8 +10,8 @@
 
 
 
-<h4 align="center"> 👨💻 Exploring Mern Stack, Ml ,DSA</h4>
-<h4 align="center"> 💬 Ask me about HTML, C++, Java , React.JS,JavaScript,CSS,Python</h4>
+<h4 align="center"> 👨💻 Exploring Mern Stack , DSA , DevOps </h4>
+<h4 align="center"> 💬 Ask me about C++, Java, JavaScript, HTML, CSS, MERN Stack</h4>
 <h4 align="center"> 📫 Reach me at: <b>deepak.quarks@gmail.com</b></h4>
 
 <h4 align="center"> 😄 Pronouns: He/Him.</h4>
